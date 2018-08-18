@@ -10,7 +10,7 @@ public class FizzBuzz {
 			return "Fizz";
 		else if(a%5==0)
 			return "Buzz";
-					return "xxx";
+					return "null";
 	}
 
 }
